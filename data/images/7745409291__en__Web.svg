@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>  
+ <svg xmlns='http://www.w3.org/2000/svg' xml:space='preserve' height='768.0' viewBox='0,0 65416,44563' width='1024.0' xmlns:xlink='http://www.w3.org/1999/xlink'>   
+<defs>
+<style type='text/css'>
+<![CDATA[
+.A{stroke:#808080;stroke-width:59px;}
+.B,.R{fill:#CCC;}
+.C,.K,.O,.L,.N,.M,.Q,.J,.P,.D,.B,.H,.I,.S,.R{stroke-linecap:square;}
+.C,.O,.L,.Q,.J,.D,.B{stroke-width:16px;}
+.E,.G,.A,.C,.K,.O,.L,.N,.M,.Q,.J,.P,.D,.B,.H,.I,.S,.R{stroke-dasharray:none;}
+.F{stroke-dasharray:117,58;}
+.F,.E,.C,.K,.O,.L,.M,.Q,.J,.D,.B,.H,.I,.S,.R{stroke:#000;}
+.F,.E,.G{stroke-width:85px;}
+.F,.E,.G,.A{stroke-linecap:butt;}
+.F,.E,.G,.A,.C{fill-opacity:0.0;fill:none;}
+.F,.E,.G,.A,.C,.D,.B,.S,.R{font-family:sans-serif;}
+.F,.E,.G,.A,.C,.H,.I,.S,.R{stroke-opacity:1.0;}
+.F,.E,.G,.A,.C,.K,.O,.L,.N,.M,.Q,.J,.P,.D,.B,.H,.I,.S,.R{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke-linejoin:miter;stroke-miterlimit:10;}
+.G{stroke:#0C0;}
+.H{font-size:662px;}
+.K,.L{font-size:469px;}
+.K,.M,.D,.H,.I,.S{fill:#000;}
+.K,.N,.M,.P,.H,.I{stroke-width:0.5px;}
+.K,.O,.L,.N,.H{font-family:Arial;}
+.K,.O,.L,.N,.M,.Q,.J,.P,.D,.B{stroke-opacity:0.0;}
+.K,.O,.L,.N,.M,.Q,.J,.P,.D,.B,.H,.I,.S,.R{fill-opacity:1.0;}
+.M,.J,.I{font-size:393px;}
+.M,.Q,.J,.P,.I{font-family:Tahoma;}
+.N,.P{stroke:#999;fill:#999;}
+.O,.L,.Q,.J{fill:#FFF;}
+.O,.N{font-size:312px;}
+.Q,.P{font-size:315px;}
+.S,.R{stroke-width:16.0px;}
+]]>
+</style>
+</defs>
+<g>
+<g><circle class='R' cx='64897' cy='20400' r='169'/>
+<circle class='R' cx='64897' cy='20400' r='101'/>
+<rect class='R' x='64051' y='20332' width='677' height='135'/>
+<rect class='R' x='63712' y='20332' width='338' height='135'/>
+</g>
+<g><path class='B' d='M23426,21077h338v-338v-677v-338h-338h-338v338v677v338 z'/>
+<path class='C' d='M23088,20739v338h677v-338m-677,-677v-338h677v338'/>
+</g>
+<g><path class='B' d='M28504,21077v-338v-677v-338h338h338v338v677v338 z'/>
+<path class='C' d='M28504,20061v-338h677v338m0,677v338h-677v-338'/>
+</g>
+<g><circle class='S' cx='35275' cy='20400' r='270'/>
+</g>
+<g><path class='B' d='M53556,21077v-338v-677v-338h-338h-338v338v677v338 z'/>
+<path class='C' d='M53556,20739v338h-677v-338m0,-677v-338h677v338m-338,338h677'/>
+</g>
+<g><circle class='S' cx='46785' cy='20400' r='270'/>
+</g>
+<g><path class='B' d='M54233,21077v-338v-677v-338h-338h-338v338v677v338 z'/>
+<path class='C' d='M54233,20739v338h-677v-338m0,-677v-338h677v338m-1015,338h677'/>
+</g>
+<g><circle class='S' cx='40015' cy='20400' r='270'/>
+</g>
+<g><path class='B' d='M9546,21077v-338v-677v-338h338h338v338v677v338 z'/>
+<path class='C' d='M9546,20061v-338h677v338m0,677v338h-677v-338'/>
+</g>
+<g><path class='C' d='M23765,20061v-338h4739v338m-4739,677v338h4739v-338'/>
+</g>
+<g><path class='C' d='M9546,20061v-338h-8124v1354h8124v-338'/>
+</g>
+<g><path class='E' d='M63712,20400h-9478'/>
+<path class='F' d='M63712,20400h-9478'/>
+</g>
+<g><path class='G' d='M23088,20400h-12864'/>
+<path class='F' d='M23088,20400h-12864'/>
+</g>
+<g><path class='E' d='M46785,20400h6093'/>
+<circle class='D' cx='46785' cy='20400' r='42'/>
+<path class='F' d='M46785,20400h6093'/>
+</g>
+<g><path class='E' d='M46785,20400h-6770'/>
+<circle class='D' cx='46785' cy='20400' r='42'/>
+<circle class='D' cx='40015' cy='20400' r='42'/>
+<path class='F' d='M46785,20400h-6770'/>
+</g>
+<g><path class='E' d='M29182,20400h6093'/>
+<circle class='D' cx='35275' cy='20400' r='42'/>
+<path class='F' d='M29182,20400h6093'/>
+</g>
+<g><path class='E' d='M35275,20400h4739'/>
+<circle class='D' cx='35275' cy='20400' r='42'/>
+<circle class='D' cx='40015' cy='20400' r='42'/>
+<path class='F' d='M35275,20400h4739'/>
+</g>
+<g><text class='I' x='59123' y='19955'>BATTERY NEGATIVE TERMINAL</text>
+</g>
+<g><rect class='J' x='61864' y='20094' width='1439' height='527'/>
+<text class='K' x='61937' y='20607'>M96-1</text>
+</g>
+<g><rect class='L' x='20901' y='20094' width='1778' height='527'/>
+<text class='K' x='20974' y='20607'>M11A-1</text>
+</g>
+<g><rect class='L' x='29591' y='20094' width='1778' height='527'/>
+<text class='K' x='29664' y='20607'>M11B-1</text>
+</g>
+<g><rect class='L' x='34417' y='20731' width='1721' height='634'/>
+<text class='K' x='34561' y='21234'>PG132</text>
+</g>
+<g><rect class='L' x='51087' y='20094' width='1383' height='527'/>
+<text class='K' x='51160' y='20607'>H02-1</text>
+</g>
+<g><rect class='L' x='46278' y='20731' width='1157' height='634'/>
+<text class='K' x='46421' y='21234'>PG1</text>
+</g>
+<g><text class='M' x='51229' y='19602'>BATTERY SUBHARNESS</text>
+</g>
+<g><rect class='J' x='54642' y='20094' width='1805' height='527'/>
+<text class='K' x='54715' y='20607'>H02M-1</text>
+</g>
+<g><rect class='L' x='39365' y='20731' width='1439' height='634'/>
+<text class='K' x='39509' y='21234'>PG13</text>
+</g>
+<g><rect class='L' x='10633' y='20094' width='1467' height='527'/>
+<text class='K' x='10706' y='20607'>CN1-5</text>
+</g>
+<g><text class='M' x='25593' y='19448'>HORN</text>
+</g>
+<g><rect class='J' x='23812' y='20190' width='959' height='351'/>
+<text class='N' x='23861' y='20532'>Power</text>
+</g>
+<g><rect class='O' x='27252' y='20182' width='1129' height='351'/>
+<text class='N' x='27301' y='20524'>Ground</text>
+</g>
+<g><text class='M' x='1477' y='19500'>CHASSIS ECM</text>
+</g>
+<g><rect class='J' x='8559' y='20146' width='828' height='423'/>
+<text class='P' x='8711' y='20524'>Horn</text>
+</g>
+<g><rect class='Q' x='58829' y='20069' width='338' height='527'/>
+<text class='K' x='58902' y='20581'>B</text>
+</g>
+<g><rect class='L' x='16882' y='20136' width='874' height='527'/>
+<text class='K' x='16955' y='20649'>B/G</text>
+</g>
+<g><rect class='L' x='50022' y='20136' width='338' height='527'/>
+<text class='K' x='50095' y='20649'>B</text>
+</g>
+<g><rect class='L' x='43251' y='20069' width='338' height='527'/>
+<text class='K' x='43324' y='20581'>B</text>
+</g>
+<g><rect class='L' x='33027' y='20069' width='338' height='527'/>
+<text class='K' x='33100' y='20581'>B</text>
+</g>
+<g><rect class='L' x='37767' y='20069' width='338' height='527'/>
+<text class='K' x='37840' y='20581'>B</text>
+</g>
+</g></svg>
+
+

@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>  
+ <svg xmlns='http://www.w3.org/2000/svg' xml:space='preserve' height='768.0' viewBox='0,0 65416,44563' width='1024.0' xmlns:xlink='http://www.w3.org/1999/xlink'>   
+<defs>
+<style type='text/css'>
+<![CDATA[
+.A{stroke-width:59px;}
+.A,.B{stroke:#808080;}
+.A,.G,.E,.C,.K,.L,.J,.O,.P,.M,.N,.D,.B,.I{stroke-dasharray:none;}
+.C,.K,.L,.J,.O,.P,.M,.N,.D,.B,.I{stroke-linecap:square;}
+.C,.L,.J,.P,.N,.D,.B{stroke-width:16px;}
+.D,.B{fill:#CCC;}
+.E{stroke:#D3D3D3;}
+.F{stroke:#C0F;}
+.H,.F{stroke-dasharray:117,58;}
+.H,.F,.A,.G,.E{stroke-linecap:butt;}
+.H,.F,.A,.G,.E,.C{fill-opacity:0.0;fill:none;}
+.H,.F,.A,.G,.E,.C,.D,.B{font-family:sans-serif;}
+.H,.F,.A,.G,.E,.C,.I{stroke-opacity:1.0;}
+.H,.F,.A,.G,.E,.C,.K,.L,.J,.O,.P,.M,.N,.D,.B,.I{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke-linejoin:miter;stroke-miterlimit:10;}
+.H,.F,.G,.E{stroke-width:85px;}
+.H,.G,.C,.K,.L,.J,.P,.M,.N,.D,.I{stroke:#000;}
+.J,.I{font-size:662px;}
+.K,.L{font-size:469px;}
+.K,.L,.J,.I{font-family:Arial;}
+.K,.L,.J,.O,.P,.M,.N,.D,.B{stroke-opacity:0.0;}
+.K,.L,.J,.O,.P,.M,.N,.D,.B,.I{fill-opacity:1.0;}
+.K,.M,.I{fill:#000;}
+.K,.O,.M,.I{stroke-width:0.5px;}
+.L,.J,.P,.N{fill:#FFF;}
+.M,.N{font-size:393px;}
+.O{fill:#999;stroke:#999;}
+.O,.P{font-size:315px;}
+.O,.P,.M,.N{font-family:Tahoma;}
+]]>
+</style>
+</defs>
+<g>
+<g><path class='B' d='M59988,20400h338v-338v-1354v-338h-338h-338v338v1354v338 z'/>
+<path class='C' d='M59650,20061v338h677v-338m-677,-1354v-338h677v338'/>
+</g>
+<g><path class='D' d='M6161,21754v-338v-4062v-338h338h338v338v4062v338 z'/>
+<path class='C' d='M6161,20061v1692h677v-1692m-677,-1354v-1692h677v1692'/>
+</g>
+<g><path class='C' d='M60327,20061v338h4739v-2031h-4739v338'/>
+</g>
+<g><path class='C' d='M6161,18707v-1692h-4739v4739h4739v-1692'/>
+</g>
+<g><path class='E' d='M59650,19046h-52811'/>
+<path class='F' d='M59650,19046h-52811'/>
+</g>
+<g><path class='G' d='M6838,19723h52811'/>
+<path class='H' d='M6838,19723h52811'/>
+</g>
+<g><rect class='J' x='57886' y='19417' width='1354' height='527'/>
+<text class='K' x='57959' y='19930'>E06-2</text>
+</g>
+<g><rect class='L' x='57886' y='18740' width='1354' height='527'/>
+<text class='K' x='57959' y='19252'>E06-1</text>
+</g>
+<g><rect class='L' x='7247' y='19417' width='1749' height='527'/>
+<text class='K' x='7320' y='19930'>CN3-15</text>
+</g>
+<g><rect class='L' x='7247' y='18740' width='1749' height='527'/>
+<text class='K' x='7320' y='19252'>CN3-16</text>
+</g>
+<g><text class='M' x='62977' y='18214'>FUEL PUMP</text>
+</g>
+<g><rect class='N' x='60592' y='19469' width='2919' height='423'/>
+<text class='O' x='60638' y='19847'>MOTOR NEGATIVE</text>
+</g>
+<g><rect class='P' x='60592' y='18792' width='2816' height='423'/>
+<text class='O' x='60638' y='19170'>MOTOR POSITIVE</text>
+</g>
+<g><text class='M' x='1436' y='16783'>CHASSIS ECM</text>
+</g>
+<g><rect class='N' x='3579' y='18792' width='2422' height='423'/>
+<text class='O' x='3731' y='19170'>Fuel Pump +VE</text>
+</g>
+<g><rect class='P' x='3702' y='19469' width='2299' height='423'/>
+<text class='O' x='3854' y='19847'>Fuel Pump -VE</text>
+</g>
+<g><rect class='P' x='34274' y='18782' width='958' height='527'/>
+<text class='K' x='34347' y='19295'>P/W</text>
+</g>
+<g><rect class='L' x='34584' y='19459' width='338' height='527'/>
+<text class='K' x='34657' y='19972'>B</text>
+</g>
+</g></svg>
+
+

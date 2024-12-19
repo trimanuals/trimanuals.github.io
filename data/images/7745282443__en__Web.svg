@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>  
+ <svg xmlns='http://www.w3.org/2000/svg' xml:space='preserve' height='768.0' viewBox='0,0 65416,44563' width='1024.0' xmlns:xlink='http://www.w3.org/1999/xlink'>   
+<defs>
+<style type='text/css'>
+<![CDATA[
+.A{stroke-width:59px;}
+.A,.B{stroke:#808080;}
+.A,.E,.C,.I,.J,.H,.M,.N,.K,.L,.D,.B,.G{stroke-dasharray:none;}
+.C,.I,.J,.H,.M,.N,.K,.L,.D,.B,.G{stroke-linecap:square;}
+.C,.I,.K,.D,.G{stroke:#000;}
+.C,.J,.H,.N,.L,.D,.B{stroke-width:16px;}
+.D,.B{fill:#CCC;}
+.E{stroke:#C0F;}
+.F{stroke-dasharray:117,58;}
+.F,.A,.E{stroke-linecap:butt;}
+.F,.A,.E,.C{fill-opacity:0.0;fill:none;}
+.F,.A,.E,.C,.D,.B{font-family:sans-serif;}
+.F,.A,.E,.C,.G{stroke-opacity:1.0;}
+.F,.A,.E,.C,.I,.J,.H,.M,.N,.K,.L,.D,.B,.G{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke-linejoin:miter;stroke-miterlimit:10;}
+.F,.E{stroke-width:85px;}
+.F,.J,.H,.N,.L{stroke:#0C0;}
+.H,.G{font-size:662px;}
+.I,.J{font-size:469px;}
+.I,.J,.H,.G{font-family:Arial;}
+.I,.J,.H,.M,.N,.K,.L,.D,.B{stroke-opacity:0.0;}
+.I,.J,.H,.M,.N,.K,.L,.D,.B,.G{fill-opacity:1.0;}
+.I,.K,.G{fill:#000;}
+.I,.M,.K,.G{stroke-width:0.5px;}
+.J,.H,.N,.L{fill:#FFF;}
+.K,.L{font-size:393px;}
+.M{fill:#999;stroke:#999;}
+.M,.N{font-size:315px;}
+.M,.N,.K,.L{font-family:Tahoma;}
+]]>
+</style>
+</defs>
+<g>
+<g><path class='B' d='M6161,21754v-338v-677v-338h338h338v338v677v338 z'/>
+<path class='C' d='M6161,20739v-338h677v338m0,677v338h-677v-338'/>
+</g>
+<g><path class='D' d='M46785,21754v-338v-677v-338h338h338v338v677v338 z'/>
+<path class='C' d='M46785,21416v338h677v-338m0,-677v-338h-677v338m338,338h-677'/>
+</g>
+<g><path class='D' d='M46108,21754v-338v-677v-338h338h338v338v677v338 z'/>
+<path class='C' d='M46108,21416v338h677v-338m0,-677v-338h-677v338m1015,338h-677'/>
+</g>
+<g><path class='C' d='M60327,21416v1015h4062v-2708h-4062v1015'/>
+</g>
+<g><path class='C' d='M6161,20739v-338h-4739v1354h4739v-338'/>
+</g>
+<g><path class='E' d='M60327,21077h-12864'/>
+<path class='F' d='M60327,21077h-12864'/>
+</g>
+<g><path class='E' d='M46108,21077h-39270'/>
+<path class='F' d='M46108,21077h-39270'/>
+</g>
+<g><rect class='H' x='7247' y='20771' width='1467' height='527'/>
+<text class='I' x='7320' y='21284'>CN2-6</text>
+</g>
+<g><rect class='J' x='47871' y='20771' width='1862' height='527'/>
+<text class='I' x='47944' y='21284'>M37M-1</text>
+</g>
+<g><text class='K' x='45778' y='20211'>REAR LIGHT</text>
+</g>
+<g><rect class='L' x='44260' y='20771' width='1439' height='527'/>
+<text class='I' x='44333' y='21284'>M37-1</text>
+</g>
+<g><text class='K' x='61980' y='19568'>REAR LIGHT</text>
+</g>
+<g><rect class='L' x='60592' y='20823' width='1792' height='423'/>
+<text class='M' x='60638' y='21201'>Brake Light</text>
+</g>
+<g><text class='K' x='1477' y='20245'>CHASSIS ECM</text>
+</g>
+<g><rect class='L' x='2923' y='20823' width='3079' height='423'/>
+<text class='M' x='3075' y='21201'>Brake Light (Power)</text>
+</g>
+<g><rect class='N' x='54967' y='20813' width='874' height='527'/>
+<text class='I' x='55040' y='21326'>G/P</text>
+</g>
+<g><rect class='J' x='27546' y='20813' width='874' height='527'/>
+<text class='I' x='27619' y='21326'>G/P</text>
+</g>
+</g></svg>
+
+

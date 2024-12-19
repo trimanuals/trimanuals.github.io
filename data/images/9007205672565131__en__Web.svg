@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>  
+ <svg xmlns='http://www.w3.org/2000/svg' xml:space='preserve' height='768.0' viewBox='0,0 65416,44453' width='1024.0' xmlns:xlink='http://www.w3.org/1999/xlink'>   
+<defs>
+<style type='text/css'>
+<![CDATA[
+.A{stroke-width:59px;}
+.A,.B{stroke:#808080;}
+.A,.F,.H,.J,.C,.N,.O,.M,.R,.S,.P,.Q,.E,.D,.B,.L,.U,.T{stroke-dasharray:none;}
+.C,.N,.O,.M,.R,.S,.P,.Q,.E,.D,.B,.L,.U,.T{stroke-linecap:square;}
+.C,.O,.M,.S,.Q,.E,.D,.B{stroke-width:16px;}
+.D,.B,.T{fill:#CCC;}
+.G,.F,.C,.N,.P,.E,.D,.L,.U,.T{stroke:#000;}
+.G,.I,.K{stroke-dasharray:117,58;}
+.G,.I,.K,.A,.F,.H,.J{stroke-linecap:butt;}
+.G,.I,.K,.A,.F,.H,.J,.C{fill-opacity:0.0;fill:none;}
+.G,.I,.K,.A,.F,.H,.J,.C,.E,.D,.B,.U,.T{font-family:sans-serif;}
+.G,.I,.K,.A,.F,.H,.J,.C,.L,.U,.T{stroke-opacity:1.0;}
+.G,.I,.K,.A,.F,.H,.J,.C,.N,.O,.M,.R,.S,.P,.Q,.E,.D,.B,.L,.U,.T{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke-linejoin:miter;stroke-miterlimit:10;}
+.G,.I,.K,.F,.H,.J{stroke-width:84px;}
+.I,.H{stroke:#03F;}
+.J{stroke:#F9F;}
+.K,.O,.M,.S,.Q{stroke:#960;}
+.M,.L{font-size:660px;}
+.N,.O{font-size:468px;}
+.N,.O,.M,.L{font-family:Arial;}
+.N,.O,.M,.R,.S,.P,.Q,.E,.D,.B{stroke-opacity:0.0;}
+.N,.O,.M,.R,.S,.P,.Q,.E,.D,.B,.L,.U,.T{fill-opacity:1.0;}
+.N,.P,.E,.L,.U{fill:#000;}
+.N,.R,.P,.L{stroke-width:0.5px;}
+.O,.M,.S,.Q{fill:#FFF;}
+.P,.Q{font-size:392px;}
+.R{fill:#999;stroke:#999;}
+.R,.S{font-size:314px;}
+.R,.S,.P,.Q{font-family:Tahoma;}
+.U,.T{stroke-width:16.0px;}
+]]>
+</style>
+</defs>
+<g>
+<g><path class='B' d='M49518,14923v-337v-1351v-337h-337h-337v337v1351v337 z'/>
+<path class='C' d='M49518,14585v337h-675v-337m0,-1351v-337h675v337m-337,337h675m-675,675h675'/>
+</g>
+<g><path class='D' d='M50194,14923v-337v-1351v-337h-337h-337v337v1351v337 z'/>
+<path class='C' d='M50194,14585v337h-675v-337m0,-1351v-337h675v337m-1013,337h675m-675,675h675'/>
+</g>
+<g><circle class='T' cx='64895' cy='21683' r='168'/>
+<circle class='T' cx='64895' cy='21683' r='101'/>
+<rect class='T' x='62698' y='21615' width='2027' height='135'/>
+<rect class='T' x='62360' y='21615' width='337' height='135'/>
+</g>
+<g><path class='D' d='M4907,15599v-337v-3379v-337h337h337v337v3379v337 z'/>
+<path class='C' d='M4907,13909v1689h675v-1689m-675,-675v-1689h675v1689'/>
+</g>
+<g><circle class='U' cx='22481' cy='14247' r='270'/>
+</g>
+<g><circle class='U' cx='22481' cy='21683' r='270'/>
+</g>
+<g><path class='C' d='M60332,14585v337h4731v-2027h-4731v337'/>
+</g>
+<g><path class='C' d='M4907,13233v-1689h-3379v4055h3379v-1689'/>
+</g>
+<g><path class='F' d='M22481,14247h26361'/>
+<circle class='E' cx='22481' cy='14247' r='42'/>
+<path class='G' d='M22481,14247h26361'/>
+</g>
+<g><path class='F' d='M50194,14247h10138'/>
+<path class='G' d='M50194,14247h10138'/>
+</g>
+<g><path class='H' d='M50194,13571h10138'/>
+<path class='I' d='M50194,13571h10138'/>
+</g>
+<g><path class='F' d='M62360,21683h-39879'/>
+<circle class='E' cx='22481' cy='21683' r='42'/>
+<path class='G' d='M62360,21683h-39879'/>
+</g>
+<g><path class='F' d='M22481,21683v-7435'/>
+<circle class='E' cx='22481' cy='21683' r='42'/>
+<circle class='E' cx='22481' cy='14247' r='42'/>
+<path class='G' d='M22481,21683v-7435'/>
+</g>
+<g><path class='J' d='M5583,13571h43259'/>
+<path class='K' d='M5583,13571h43259'/>
+</g>
+<g><rect class='M' x='47081' y='13942' width='1352' height='526'/>
+<text class='N' x='47154' y='14454'>E19-1</text>
+</g>
+<g><rect class='O' x='47081' y='13266' width='1352' height='526'/>
+<text class='N' x='47154' y='13778'>E19-2</text>
+</g>
+<g><text class='P' x='48134' y='12683'>COOLING FAN 1</text>
+</g>
+<g><rect class='Q' x='50602' y='13942' width='2112' height='526'/>
+<text class='N' x='50675' y='14454'>E19AM-1</text>
+</g>
+<g><rect class='O' x='50602' y='13266' width='2112' height='526'/>
+<text class='N' x='50675' y='13778'>E19AM-2</text>
+</g>
+<g><text class='P' x='61757' y='21171'>ENGINE GROUND</text>
+</g>
+<g><rect class='Q' x='60177' y='21377' width='1775' height='526'/>
+<text class='N' x='60250' y='21889'>M97B-1</text>
+</g>
+<g><rect class='O' x='5991' y='13266' width='1464' height='526'/>
+<text class='N' x='6064' y='13778'>CN3-7</text>
+</g>
+<g><rect class='O' x='20616' y='13970' width='1437' height='633'/>
+<text class='N' x='20759' y='14472'>PG13</text>
+</g>
+<g><rect class='O' x='20960' y='21405' width='1155' height='633'/>
+<text class='N' x='21103' y='21907'>PG1</text>
+</g>
+<g><text class='P' x='62116' y='12567'>COOLING FAN 1</text>
+</g>
+<g><rect class='Q' x='60597' y='13994' width='1200' height='422'/>
+<text class='R' x='60643' y='14371'>Ground</text>
+</g>
+<g><rect class='S' x='60597' y='13318' width='1101' height='422'/>
+<text class='R' x='60643' y='13695'>Supply</text>
+</g>
+<g><text class='P' x='1582' y='11389'>CHASSIS ECM</text>
+</g>
+<g><rect class='Q' x='2605' y='13318' width='2142' height='422'/>
+<text class='R' x='2757' y='13695'>Cooling Fan 1</text>
+</g>
+<g><rect class='S' x='36526' y='13984' width='337' height='526'/>
+<text class='N' x='36599' y='14496'>B</text>
+</g>
+<g><rect class='O' x='55939' y='13984' width='337' height='526'/>
+<text class='N' x='56012' y='14496'>B</text>
+</g>
+<g><rect class='O' x='55925' y='13308' width='365' height='526'/>
+<text class='N' x='55998' y='13820'>U</text>
+</g>
+<g><rect class='O' x='36594' y='21352' width='337' height='526'/>
+<text class='N' x='36667' y='21863'>B</text>
+</g>
+<g><rect class='O' x='22312' y='17871' width='337' height='526'/>
+<text class='N' x='22385' y='18383'>B</text>
+</g>
+<g><rect class='O' x='36273' y='13240' width='844' height='526'/>
+<text class='N' x='36346' y='13752'>N/K</text>
+</g>
+</g></svg>
+

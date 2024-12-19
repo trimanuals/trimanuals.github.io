@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>  
+ <svg xmlns='http://www.w3.org/2000/svg' xml:space='preserve' height='768.0' viewBox='0,0 65416,44453' width='1024.0' xmlns:xlink='http://www.w3.org/1999/xlink'>   
+<defs>
+<style type='text/css'>
+<![CDATA[
+.A{stroke:#808080;stroke-width:59px;}
+.B{stroke-width:88px;}
+.C{fill:#CCC;}
+.D,.B,.N,.P,.C,.L,.T{stroke:#000;}
+.D,.B,.R,.S,.N,.O,.M,.P,.Q,.C,.F,.L,.T{stroke-linecap:square;}
+.D,.S,.O,.M,.Q,.C,.F{stroke-width:16px;}
+.F{fill:#F30;}
+.G,.E,.S,.O,.M,.Q,.F{stroke:#F30;}
+.H,.J,.A,.E,.D,.B,.R,.S,.N,.O,.M,.P,.Q,.C,.F,.L,.T{stroke-dasharray:none;}
+.I,.H{stroke:#03F;}
+.I,.K,.G{stroke-dasharray:117,58;}
+.I,.K,.G,.H,.J,.A,.E{stroke-linecap:butt;}
+.I,.K,.G,.H,.J,.A,.E,.D,.B{fill-opacity:0.0;fill:none;}
+.I,.K,.G,.H,.J,.A,.E,.D,.B,.C,.F,.T{font-family:sans-serif;}
+.I,.K,.G,.H,.J,.A,.E,.D,.B,.L,.T{stroke-opacity:1.0;}
+.I,.K,.G,.H,.J,.A,.E,.D,.B,.R,.S,.N,.O,.M,.P,.Q,.C,.F,.L,.T{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke-linejoin:miter;stroke-miterlimit:10;}
+.I,.K,.G,.H,.J,.E{stroke-width:84px;}
+.K,.J{stroke:#0C0;}
+.M,.L{font-size:660px;}
+.N,.O{font-size:468px;}
+.N,.P,.L,.T{fill:#000;}
+.P,.Q{font-family:Tahoma;font-size:392px;}
+.R{fill:#999;stroke:#999;}
+.R,.N,.P,.L{stroke-width:0.5px;}
+.R,.S{font-size:312px;}
+.R,.S,.N,.O,.M,.L{font-family:Arial;}
+.R,.S,.N,.O,.M,.P,.Q,.C,.F{stroke-opacity:0.0;}
+.R,.S,.N,.O,.M,.P,.Q,.C,.F,.L,.T{fill-opacity:1.0;}
+.S,.O,.M,.Q{fill:#FFF;}
+.T{stroke-width:16.0px;}
+]]>
+</style>
+</defs>
+<g>
+<g><path class='B' d='M31156,14136h44v111l133,1351v111h44'/>
+</g>
+<g><path class='B' d='M8175,7377h44v111l133,1351v111h44'/>
+</g>
+<g><path class='B' d='M8175,14136h44v111l133,1351v111h44'/>
+</g>
+<g><path class='B' d='M31156,7377h44v111l133,1351v111h44'/>
+</g>
+<g><path class='B' d='M8175,20895h44v111l133,1351v111h44'/>
+</g>
+<g><path class='B' d='M31156,20895h44v111l133,1351v111h44'/>
+</g>
+<g><path class='B' d='M8175,27655h44v111l133,1351v111h44'/>
+</g>
+<g><path class='B' d='M31156,27655h44v111l133,1351v111h44'/>
+</g>
+<g><path class='B' d='M22369,34414h44v111l133,1351v111h44'/>
+</g>
+<g><path class='B' d='M31156,34414h44v111l133,1351v111h44'/>
+</g>
+<g><path class='C' d='M4907,29794v-337v-2027v-337h337h337v337v2027v337 z'/>
+<path class='D' d='M4907,28104v675m675,-675v675m-675,-1351v-337h675v337m0,2027v337h-675v-337'/>
+</g>
+<g><path class='C' d='M4907,9516v-337v-2027v-337h337h337v337v2027v337 z'/>
+<path class='D' d='M4907,7826v675m675,-675v675m-675,-1351v-337h675v337m0,2027v337h-675v-337'/>
+</g>
+<g><path class='C' d='M61684,42636v-337v-675v-337h-337h-337v337v675v337 z'/>
+<path class='D' d='M61684,41622v-337h-675v337m0,675v337h675v-337'/>
+</g>
+<g><circle class='T' cx='33295' cy='27766' r='270'/>
+</g>
+<g><circle class='T' cx='33295' cy='22358' r='270'/>
+</g>
+<g><circle class='T' cx='33295' cy='21007' r='270'/>
+</g>
+<g><circle class='T' cx='33295' cy='15599' r='270'/>
+</g>
+<g><circle class='T' cx='33295' cy='14247' r='270'/>
+</g>
+<g><circle class='T' cx='33295' cy='8840' r='270'/>
+</g>
+<g><circle class='T' cx='33295' cy='35877' r='270'/>
+</g>
+<g><circle class='T' cx='33295' cy='34525' r='270'/>
+</g>
+<g><circle class='T' cx='33295' cy='29118' r='270'/>
+</g>
+<g><circle class='T' cx='33295' cy='7488' r='270'/>
+</g>
+<g><path class='C' d='M19777,36553v-337v-2027v-337h-337h-337v337v2027v337 z'/>
+<path class='D' d='M19777,36215v337h-675v-337m0,-2027v-337h675v337m-1013,337h675m-337,1013v-675m675,675v-675m-1013,1013h675'/>
+</g>
+<g><path class='C' d='M19101,36553v-337v-2027v-337h-337h-337v337v2027v337 z'/>
+<path class='D' d='M19101,36215v337h-675v-337m0,-2027v-337h675v337m-337,337h675m-1013,1013v-675m675,675v-675m-337,1013h675'/>
+</g>
+<g><path class='C' d='M4907,16275v-337v-2027v-337h337h337v337v2027v337 z'/>
+<path class='D' d='M4907,14585v675m675,-675v675m-675,-1351v-337h675v337m0,2027v337h-675v-337'/>
+</g>
+<g><path class='C' d='M4907,42636v-337v-675v-337h337h337v337v675v337 z'/>
+<path class='D' d='M4907,41622v-337h675v337m0,675v337h-675v-337'/>
+</g>
+<g><path class='C' d='M4907,23034v-337v-2027v-337h337h337v337v2027v337 z'/>
+<path class='D' d='M4907,21345v675m675,-675v675m-675,-1351v-337h675v337m0,2027v337h-675v-337'/>
+</g>
+<g><circle class='T' cx='33295' cy='41960' r='270'/>
+</g>
+<g><path class='D' d='M4907,29456v337h-3379v-2703h3379v337m0,1351v-675'/>
+</g>
+<g><path class='D' d='M61684,42298v337h3379v-1351h-3379v337'/>
+</g>
+<g><path class='D' d='M4907,36215v337h-3379v-2703h3379v337m0,1351v-675'/>
+</g>
+<g><path class='D' d='M4907,15937v337h-3379v-2703h3379v337m0,1351v-675'/>
+</g>
+<g><path class='D' d='M4907,9178v337h-3379v-2703h3379v337m0,1351v-675'/>
+</g>
+<g><path class='D' d='M4907,41622v-337h-3379v1351h3379v-337'/>
+</g>
+<g><path class='D' d='M4907,22696v337h-3379v-2703h3379v337m0,1351v-675'/>
+</g>
+<g><path class='E' d='M5583,41960h27712'/>
+<circle class='F' cx='33295' cy='41960' r='42'/>
+<path class='G' d='M5583,41960h27712'/>
+</g>
+<g><path class='E' d='M33295,41960h27712'/>
+<circle class='F' cx='33295' cy='41960' r='42'/>
+<path class='G' d='M33295,41960h27712'/>
+</g>
+<g><path class='E' d='M5583,29118h27712'/>
+<path class='G' d='M5583,29118h27712'/>
+</g>
+<g><path class='H' d='M5583,27766h27712'/>
+<path class='I' d='M5583,27766h27712'/>
+</g>
+<g><path class='H' d='M5583,7488h27712'/>
+<path class='I' d='M5583,7488h27712'/>
+</g>
+<g><path class='E' d='M5583,8840h27712'/>
+<path class='G' d='M5583,8840h27712'/>
+</g>
+<g><path class='E' d='M5583,22358h27712'/>
+<path class='G' d='M5583,22358h27712'/>
+</g>
+<g><path class='H' d='M5583,21007h27712'/>
+<path class='I' d='M5583,21007h27712'/>
+</g>
+<g><path class='H' d='M5583,14247h27712'/>
+<path class='I' d='M5583,14247h27712'/>
+</g>
+<g><path class='E' d='M19777,35877h13518'/>
+<path class='G' d='M19777,35877h13518'/>
+</g>
+<g><path class='H' d='M19777,34525h13518'/>
+<path class='I' d='M19777,34525h13518'/>
+</g>
+<g><path class='J' d='M4907,34525h13518'/>
+<path class='K' d='M4907,34525h13518'/>
+</g>
+<g><path class='H' d='M18425,35877h-13518'/>
+<path class='I' d='M18425,35877h-13518'/>
+</g>
+<g><path class='E' d='M5583,15599h27712'/>
+<path class='G' d='M5583,15599h27712'/>
+</g>
+<g><rect class='M' x='5991' y='28812' width='1352' height='526'/>
+<text class='N' x='6064' y='29324'>E04-6</text>
+</g>
+<g><rect class='O' x='5991' y='27460' width='1634' height='526'/>
+<text class='N' x='6064' y='27972'>E04-14</text>
+</g>
+<g><rect class='O' x='5991' y='7183' width='1972' height='526'/>
+<text class='N' x='6064' y='7694'>E02A-34</text>
+</g>
+<g><rect class='O' x='5991' y='8534' width='1972' height='526'/>
+<text class='N' x='6064' y='9046'>E02A-33</text>
+</g>
+<g><rect class='O' x='58825' y='41655' width='1775' height='526'/>
+<text class='N' x='58898' y='42166'>M02A-4</text>
+</g>
+<g><rect class='O' x='32972' y='28029' width='788' height='633'/>
+<text class='N' x='33115' y='28531'>CL</text>
+</g>
+<g><rect class='O' x='32930' y='22622' width='872' height='633'/>
+<text class='N' x='33073' y='23124'>CH</text>
+</g>
+<g><rect class='O' x='32972' y='21270' width='788' height='633'/>
+<text class='N' x='33115' y='21772'>CL</text>
+</g>
+<g><rect class='O' x='32930' y='15863' width='872' height='633'/>
+<text class='N' x='33073' y='16364'>CH</text>
+</g>
+<g><rect class='O' x='32972' y='14511' width='788' height='633'/>
+<text class='N' x='33115' y='15013'>CL</text>
+</g>
+<g><rect class='O' x='32930' y='9103' width='872' height='633'/>
+<text class='N' x='33073' y='9605'>CH</text>
+</g>
+<g><rect class='O' x='32930' y='36140' width='872' height='633'/>
+<text class='N' x='33073' y='36642'>CH</text>
+</g>
+<g><rect class='O' x='32972' y='34788' width='788' height='633'/>
+<text class='N' x='33115' y='35290'>CL</text>
+</g>
+<g><rect class='O' x='32930' y='30733' width='872' height='633'/>
+<text class='N' x='33073' y='31235'>CH</text>
+</g>
+<g><rect class='O' x='32972' y='7751' width='788' height='633'/>
+<text class='N' x='33115' y='8253'>CL</text>
+</g>
+<g><text class='P' x='16775' y='33728'>IMMOBILISER/TPMS ECM</text>
+</g>
+<g><rect class='Q' x='20185' y='34220' width='1436' height='526'/>
+<text class='N' x='20258' y='34731'>M68-1</text>
+</g>
+<g><rect class='O' x='20185' y='35571' width='1436' height='526'/>
+<text class='N' x='20258' y='36083'>M68-6</text>
+</g>
+<g><rect class='O' x='16158' y='34220' width='1859' height='526'/>
+<text class='N' x='16231' y='34731'>M68M-1</text>
+</g>
+<g><rect class='O' x='16158' y='35571' width='1859' height='526'/>
+<text class='N' x='16231' y='36083'>M68M-6</text>
+</g>
+<g><rect class='O' x='5991' y='15294' width='1436' height='526'/>
+<text class='N' x='6064' y='15805'>M59-2</text>
+</g>
+<g><rect class='O' x='5991' y='13942' width='1718' height='526'/>
+<text class='N' x='6064' y='14454'>M59-11</text>
+</g>
+<g><rect class='O' x='5991' y='41655' width='1436' height='526'/>
+<text class='N' x='6064' y='42166'>M01-7</text>
+</g>
+<g><rect class='O' x='5991' y='20701' width='1718' height='526'/>
+<text class='N' x='6064' y='21213'>M01-24</text>
+</g>
+<g><rect class='O' x='5991' y='22053' width='1718' height='526'/>
+<text class='N' x='6064' y='22565'>M01-25</text>
+</g>
+<g><rect class='O' x='32972' y='42224' width='788' height='633'/>
+<text class='N' x='33115' y='42726'>LN</text>
+</g>
+<g><text class='P' x='1650' y='26969'>DIAGNOSTIC CONNECTOR</text>
+</g>
+<g><rect class='Q' x='3208' y='28908' width='1652' height='351'/>
+<text class='R' x='3256' y='29250'>CAN HIGH</text>
+</g>
+<g><rect class='S' x='3283' y='27556' width='1577' height='351'/>
+<text class='R' x='3331' y='27898'>CAN LOW</text>
+</g>
+<g><text class='P' x='58048' y='41229'>LEFT HANDLEBAR SWITCH HOUSING</text>
+</g>
+<g><rect class='Q' x='61731' y='41751' width='525' height='351'/>
+<text class='R' x='61779' y='42092'>LIN</text>
+</g>
+<g><text class='P' x='1650' y='33728'>IMMOBILISER/TPMS ECM</text>
+</g>
+<g><rect class='Q' x='3283' y='34316' width='1577' height='351'/>
+<text class='R' x='3331' y='34657'>CAN LOW</text>
+</g>
+<g><rect class='S' x='3208' y='35667' width='1652' height='351'/>
+<text class='R' x='3256' y='36009'>CAN HIGH</text>
+</g>
+<g><text class='P' x='1650' y='13450'>ABS MODULATOR</text>
+</g>
+<g><rect class='Q' x='3208' y='15390' width='1652' height='351'/>
+<text class='R' x='3256' y='15731'>CAN HIGH</text>
+</g>
+<g><rect class='S' x='3283' y='14038' width='1577' height='351'/>
+<text class='R' x='3331' y='14380'>CAN LOW</text>
+</g>
+<g><text class='P' x='1650' y='6691'>ENGINE ECM</text>
+</g>
+<g><rect class='Q' x='3283' y='7257' width='1577' height='351'/>
+<text class='R' x='3331' y='7599'>CAN LOW</text>
+</g>
+<g><rect class='S' x='3208' y='8630' width='1652' height='351'/>
+<text class='R' x='3256' y='8972'>CAN HIGH</text>
+</g>
+<g><text class='P' x='1650' y='41197'>INSTRUMENTS</text>
+</g>
+<g><rect class='Q' x='4334' y='41751' width='525' height='351'/>
+<text class='R' x='4382' y='42092'>LIN</text>
+</g>
+<g><rect class='S' x='4334' y='41751' width='525' height='351'/>
+<text class='R' x='4382' y='42092'>LIN</text>
+</g>
+<g><text class='P' x='1650' y='20209'>INSTRUMENTS</text>
+</g>
+<g><rect class='Q' x='3283' y='20797' width='1577' height='351'/>
+<text class='R' x='3331' y='21139'>CAN LOW</text>
+</g>
+<g><rect class='S' x='3208' y='22149' width='1652' height='351'/>
+<text class='R' x='3256' y='22491'>CAN HIGH</text>
+</g>
+<g><rect class='S' x='19256' y='41638' width='365' height='526'/>
+<text class='N' x='19329' y='42150'>R</text>
+</g>
+<g><rect class='O' x='46969' y='41638' width='365' height='526'/>
+<text class='N' x='47042' y='42150'>R</text>
+</g>
+<g><rect class='O' x='19256' y='28795' width='365' height='526'/>
+<text class='N' x='19329' y='29307'>R</text>
+</g>
+<g><rect class='O' x='19256' y='27443' width='365' height='526'/>
+<text class='N' x='19329' y='27955'>U</text>
+</g>
+<g><rect class='O' x='19256' y='7166' width='365' height='526'/>
+<text class='N' x='19329' y='7677'>U</text>
+</g>
+<g><rect class='O' x='19256' y='8517' width='365' height='526'/>
+<text class='N' x='19329' y='9029'>R</text>
+</g>
+<g><rect class='O' x='19256' y='22036' width='365' height='526'/>
+<text class='N' x='19329' y='22548'>R</text>
+</g>
+<g><rect class='O' x='19256' y='20684' width='365' height='526'/>
+<text class='N' x='19329' y='21196'>U</text>
+</g>
+<g><rect class='O' x='19256' y='13925' width='365' height='526'/>
+<text class='N' x='19329' y='14437'>U</text>
+</g>
+<g><rect class='O' x='26354' y='35554' width='365' height='526'/>
+<text class='N' x='26427' y='36066'>R</text>
+</g>
+<g><rect class='O' x='26354' y='34203' width='365' height='526'/>
+<text class='N' x='26427' y='34714'>U</text>
+</g>
+<g><rect class='O' x='10793' y='34262' width='394' height='526'/>
+<text class='N' x='10866' y='34774'>G</text>
+</g>
+<g><rect class='O' x='10807' y='35614' width='365' height='526'/>
+<text class='N' x='10880' y='36125'>U</text>
+</g>
+<g><rect class='O' x='19256' y='15277' width='365' height='526'/>
+<text class='N' x='19329' y='15789'>R</text>
+</g>
+</g></svg>
+

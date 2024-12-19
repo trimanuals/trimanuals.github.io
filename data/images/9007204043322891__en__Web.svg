@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   height="768.0"
+   viewBox="0,0 65416,45683"
+   width="1024.0"
+   id="svg3336"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="11 - ENGINE MANAGEMENT CIRCUIT - LEVEL SENSORS.svg"><metadata
+     id="metadata3488"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1378"
+     id="namedview3486"
+     showgrid="false"
+     inkscape:zoom="1.5742188"
+     inkscape:cx="512"
+     inkscape:cy="384"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3342" /><defs
+     id="defs3338"><style
+       type="text/css"
+       id="style3340"><![CDATA[
+.A{stroke-width:59px;}
+.A,.B{stroke:#808080;}
+.A,.H,.E,.C,.L,.P,.Q,.M,.K,.N,.O,.F,.D,.B,.R,.I,.J{stroke-dasharray:none;}
+.C,.L,.P,.Q,.M,.K,.N,.O,.F,.D,.B,.R,.I,.J{stroke-linecap:square;}
+.C,.Q,.M,.K,.O,.F,.D,.B{stroke-width:16px;}
+.D,.B{fill:#CCC;}
+.E,.F{stroke:#FF3;}
+.G{stroke-dasharray:117,58;}
+.G,.A,.H,.E{stroke-linecap:butt;}
+.G,.A,.H,.E,.C{fill-opacity:0.0;fill:none;}
+.G,.A,.H,.E,.C,.F,.D,.B{font-family:sans-serif;}
+.G,.A,.H,.E,.C,.L,.P,.Q,.M,.K,.N,.O,.F,.D,.B,.R,.I,.J{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke-linejoin:miter;stroke-miterlimit:10;}
+.G,.A,.H,.E,.C,.R,.I,.J{stroke-opacity:1.0;}
+.G,.C,.L,.Q,.M,.K,.N,.O,.D,.R,.I,.J{stroke:#000;}
+.G,.H,.E{stroke-width:84px;}
+.H{stroke:#F90;}
+.J{font-size:770px;}
+.K,.I{font-size:660px;}
+.L,.M,.R{font-size:468px;}
+.L,.N,.F,.R,.I,.J{fill:#000;}
+.L,.P,.N,.I,.J{stroke-width:0.5px;}
+.L,.P,.Q,.M,.K,.N,.O,.F,.D,.B{stroke-opacity:0.0;}
+.L,.P,.Q,.M,.K,.N,.O,.F,.D,.B,.R,.I,.J{fill-opacity:1.0;}
+.L,.P,.Q,.M,.K,.R,.I,.J{font-family:Arial;}
+.N,.O{font-family:Tahoma;font-size:392px;}
+.P{fill:#999;stroke:#999;}
+.P,.Q{font-size:312px;}
+.Q,.M,.K,.O{fill:#FFF;}
+.R{stroke-width:16.0px;}
+]]></style></defs><g
+     id="g3342"><g
+       id="g3346"><path
+         class="B"
+         d="M4231,8042v-337v-675v-337h337h337v337v675v337 z"
+         id="path3348" /><path
+         class="C"
+         d="M4231,7028v-337h675v337m0,675v337h-675v-337"
+         id="path3350" /></g><g
+       id="g3352"><path
+         class="D"
+         d="M62360,8042v-337v-2703v-337h-337h-337v337v2703v337 z"
+         id="path3354" /><path
+         class="C"
+         d="M62360,5001v-337h-675v337m0,675v1351m675,-1351v1351m-675,675v337h675v-337"
+         id="path3356" /></g><g
+       id="g3358"><path
+         class="D"
+         d="M4231,6014v-337v-675v-337h337h337v337v675v337 z"
+         id="path3360" /><path
+         class="C"
+         d="M4231,5001v-337h675v337m0,675v337h-675v-337"
+         id="path3362" /></g><g
+       id="g3364"><path
+         class="C"
+         d="M62360,5676v1351m0,675v337h2027v-3379h-2027v337"
+         id="path3366" /></g><g
+       id="g3368"><path
+         class="C"
+         d="M4231,7704v337h-2703v-3379h2703v337m0,2027v-1351"
+         id="path3370" /></g><g
+       id="g3372"><path
+         class="E"
+         d="M33971,7366h27712"
+         id="path3374" /><circle
+         class="F"
+         cx="33971"
+         cy="7366"
+         r="42"
+         id="circle3376" /><path
+         class="G"
+         d="M33971,7366h27712"
+         id="path3378" /></g><g
+       id="g3380"><path
+         class="H"
+         d="M4907,5338h56777"
+         id="path3382" /><path
+         class="G"
+         d="M4907,5338h56777"
+         id="path3384" /></g><g
+       id="g3386"><path
+         class="E"
+         d="M4907,7366h29064"
+         id="path3388" /><circle
+         class="F"
+         cx="33971"
+         cy="7366"
+         r="42"
+         id="circle3390" /><path
+         class="G"
+         d="M4907,7366h29064"
+         id="path3392" /></g><g
+       id="g3402"><rect
+         class="K"
+         x="5315"
+         y="7061"
+         width="1972"
+         height="526"
+         id="rect3404" /><text
+         class="L"
+         x="5388"
+         y="7572"
+         id="text3406">E02B-12</text>
+</g><g
+       id="g3408"><rect
+         class="M"
+         x="59923"
+         y="7061"
+         width="1352"
+         height="526"
+         id="rect3410" /><text
+         class="L"
+         x="59996"
+         y="7572"
+         id="text3412">E07-2</text>
+</g><g
+       id="g3414"><rect
+         class="M"
+         x="59923"
+         y="5033"
+         width="1352"
+         height="526"
+         id="rect3416" /><text
+         class="L"
+         x="59996"
+         y="5545"
+         id="text3418">E07-1</text>
+</g><g
+       id="g3420"><rect
+         class="M"
+         x="5315"
+         y="5033"
+         width="1718"
+         height="526"
+         id="rect3422" /><text
+         class="L"
+         x="5388"
+         y="5545"
+         id="text3424">E02C-5</text>
+</g><g
+       id="g3426"><text
+         class="N"
+         x="60474"
+         y="4541"
+         id="text3428">FUEL LEVEL SENSOR</text>
+</g><g
+       id="g3430"><rect
+         class="O"
+         x="62407"
+         y="5129"
+         width="1239"
+         height="351"
+         id="rect3432" /><text
+         class="P"
+         x="62455"
+         y="5471"
+         id="text3434">SIGNAL</text>
+</g><g
+       id="g3436"><rect
+         class="Q"
+         x="62407"
+         y="7157"
+         width="1501"
+         height="351"
+         id="rect3438" /><text
+         class="P"
+         x="62455"
+         y="7498"
+         id="text3440">GROUND</text>
+</g><g
+       id="g3442"><text
+         class="N"
+         x="1650"
+         y="4541"
+         id="text3444">ENGINE ECM</text>
+</g><g
+       id="g3446"><rect
+         class="O"
+         x="3188"
+         y="5129"
+         width="995"
+         height="351"
+         id="rect3448" /><text
+         class="P"
+         x="3236"
+         y="5471"
+         id="text3450">FLS#1</text>
+</g><g
+       id="g3452"><rect
+         class="Q"
+         x="3395"
+         y="7157"
+         width="788"
+         height="351"
+         id="rect3454" /><text
+         class="P"
+         x="3443"
+         y="7498"
+         id="text3456">LG-E</text>
+</g><g
+       id="g3458"><rect
+         class="Q"
+         x="47419"
+         y="7044"
+         width="817"
+         height="526"
+         id="rect3460" /><text
+         class="L"
+         x="47492"
+         y="7556"
+         id="text3462">B/Y</text>
+</g><g
+       id="g3464"><rect
+         class="M"
+         x="33535"
+         y="5016"
+         width="873"
+         height="526"
+         id="rect3466" /><text
+         class="L"
+         x="33608"
+         y="5528"
+         id="text3468">B/O</text>
+</g><g
+       id="g3470"><rect
+         class="M"
+         x="19031"
+         y="7044"
+         width="817"
+         height="526"
+         id="rect3472" /><text
+         class="L"
+         x="19104"
+         y="7556"
+         id="text3474">B/Y</text>
+</g><g
+       id="g3476"><circle
+         class="R"
+         cx="33971"
+         cy="7366"
+         r="270"
+         id="circle3478" /></g><g
+       id="g3480"><rect
+         class="M"
+         x="33425"
+         y="7630"
+         width="1098"
+         height="633"
+         id="rect3482" /><text
+         class="L"
+         x="33568"
+         y="8132"
+         id="text3484">LG1</text>
+</g></g></svg>

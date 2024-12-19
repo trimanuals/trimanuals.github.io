@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>  
+ <svg xmlns='http://www.w3.org/2000/svg' xml:space='preserve' height='768.0' viewBox='0,0 65416,44453' width='1024.0' xmlns:xlink='http://www.w3.org/1999/xlink'>   
+<defs>
+<style type='text/css'>
+<![CDATA[
+.A{stroke-width:59px;}
+.A,.B{stroke:#808080;}
+.A,.H,.E,.C,.L,.R,.S,.O,.K,.M,.P,.Q,.N,.D,.B,.J{stroke-dasharray:none;}
+.C,.L,.R,.S,.O,.K,.M,.P,.Q,.N,.D,.B,.J{stroke-linecap:square;}
+.C,.S,.O,.K,.Q,.N,.D,.B{stroke-width:16px;}
+.D,.B{fill:#CCC;}
+.F,.C,.L,.M,.D,.J{stroke:#000;}
+.F,.I,.G{stroke-dasharray:117,58;}
+.F,.I,.G,.A,.H,.E{stroke-linecap:butt;}
+.F,.I,.G,.A,.H,.E,.C{fill-opacity:0.0;fill:none;}
+.F,.I,.G,.A,.H,.E,.C,.D,.B{font-family:sans-serif;}
+.F,.I,.G,.A,.H,.E,.C,.J{stroke-opacity:1.0;}
+.F,.I,.G,.A,.H,.E,.C,.L,.R,.S,.O,.K,.M,.P,.Q,.N,.D,.B,.J{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke-linejoin:miter;stroke-miterlimit:10;}
+.F,.I,.G,.H,.E{stroke-width:84px;}
+.G{stroke:#D3D3D3;}
+.H{stroke:#03F;}
+.I,.E,.S,.O,.K,.Q,.N{stroke:#0C0;}
+.K,.J{font-size:660px;}
+.L,.M,.J{fill:#000;}
+.L,.O{font-size:468px;}
+.L,.R,.M,.P,.J{stroke-width:0.5px;}
+.L,.R,.S,.O,.K,.J{font-family:Arial;}
+.L,.R,.S,.O,.K,.M,.P,.Q,.N,.D,.B{stroke-opacity:0.0;}
+.L,.R,.S,.O,.K,.M,.P,.Q,.N,.D,.B,.J{fill-opacity:1.0;}
+.M,.N{font-size:392px;}
+.M,.P,.Q,.N{font-family:Tahoma;}
+.P,.Q{font-size:314px;}
+.R,.P{fill:#999;stroke:#999;}
+.R,.S{font-size:312px;}
+.S,.O,.K,.Q,.N{fill:#FFF;}
+]]>
+</style>
+</defs>
+<g>
+<g><path class='B' d='M22481,19655v-337v-675v-337h-337h-337v337v675v337 z'/>
+<path class='C' d='M22481,19317v337h-675v-337m0,-675v-337h675v337m-337,337h675'/>
+</g>
+<g><path class='D' d='M23157,19655v-337v-675v-337h-337h-337v337v675v337 z'/>
+<path class='C' d='M23157,19317v337h-675v-337m0,-675v-337h675v337m-1013,337h675'/>
+</g>
+<g><path class='D' d='M22481,22358v-337v-675v-337h-337h-337v337v675v337 z'/>
+<path class='C' d='M22481,22020v337h-675v-337m0,-675v-337h675v337m-337,337h675'/>
+</g>
+<g><path class='D' d='M54249,24386v-337v-5407v-337h-337h-337v337v5407v337 z'/>
+<path class='C' d='M54249,18641v-337h-675v337m0,675v2027m675,-2027v2027m-675,675v1351m675,-1351v1351m-675,675v337h675v-337'/>
+</g>
+<g><path class='D' d='M22481,24386v-337v-675v-337h-337h-337v337v675v337 z'/>
+<path class='C' d='M22481,24048v337h-675v-337m0,-675v-337h675v337m-337,337h675'/>
+</g>
+<g><path class='D' d='M23157,22358v-337v-675v-337h-337h-337v337v675v337 z'/>
+<path class='C' d='M23157,22020v337h-675v-337m0,-675v-337h675v337m-1013,337h675'/>
+</g>
+<g><path class='D' d='M23157,24386v-337v-675v-337h-337h-337v337v675v337 z'/>
+<path class='C' d='M23157,24048v337h-675v-337m0,-675v-337h675v337m-1013,337h675'/>
+</g>
+<g><path class='C' d='M10314,22020v337h-5407v-4055h5407v337m0,2703v-2027'/>
+</g>
+<g><path class='C' d='M54249,19317v2027m0,675v1351m0,675v337h4731v-6083h-4731v337'/>
+</g>
+<g><path class='C' d='M10314,23372v-337h-5407v1351h5407v-337'/>
+</g>
+<g><path class='E' d='M21805,18979h-11490'/>
+<path class='F' d='M21805,18979h-11490'/>
+</g>
+<g><path class='E' d='M53573,18979h-30416'/>
+<path class='G' d='M53573,18979h-30416'/>
+</g>
+<g><path class='E' d='M21805,21683h-11490'/>
+<path class='F' d='M21805,21683h-11490'/>
+</g>
+<g><path class='E' d='M23157,21683h30416'/>
+<path class='F' d='M23157,21683h30416'/>
+</g>
+<g><path class='H' d='M10314,23710h11490'/>
+<path class='I' d='M10314,23710h11490'/>
+</g>
+<g><path class='H' d='M23157,23710h30416'/>
+<path class='I' d='M23157,23710h30416'/>
+</g>
+<g><rect class='K' x='19199' y='18673' width='2197' height='526'/>
+<text class='L' x='19272' y='19185'>M02AM-6</text>
+</g>
+<g><text class='M' x='18967' y='18114'>LEFT HANDLEBAR SWITCH HOUSING</text>
+</g>
+<g><rect class='N' x='23565' y='18673' width='1775' height='526'/>
+<text class='L' x='23638' y='19185'>M02A-6</text>
+</g>
+<g><rect class='O' x='19199' y='21377' width='2197' height='526'/>
+<text class='L' x='19272' y='21889'>M02BM-6</text>
+</g>
+<g><rect class='O' x='51446' y='21377' width='1718' height='526'/>
+<text class='L' x='51519' y='21889'>M01-17</text>
+</g>
+<g><rect class='O' x='51446' y='18673' width='1718' height='526'/>
+<text class='L' x='51519' y='19185'>M01-20</text>
+</g>
+<g><rect class='O' x='51446' y='23405' width='1718' height='526'/>
+<text class='L' x='51519' y='23917'>M01-21</text>
+</g>
+<g><rect class='O' x='19199' y='23405' width='2197' height='526'/>
+<text class='L' x='19272' y='23917'>M14AM-4</text>
+</g>
+<g><text class='M' x='19000' y='20818'>LEFT HANDLEBAR SWITCH HOUSING</text>
+</g>
+<g><rect class='N' x='23565' y='21377' width='1775' height='526'/>
+<text class='L' x='23638' y='21889'>M02B-6</text>
+</g>
+<g><text class='M' x='18739' y='22913'>RIGHT HANDLEBAR SWITCH HOUSING</text>
+</g>
+<g><rect class='N' x='23565' y='23405' width='1775' height='526'/>
+<text class='L' x='23638' y='23917'>M14A-4</text>
+</g>
+<g><text class='M' x='5029' y='18182'>LEFT HANDLEBAR SWITCH HOUSING</text>
+</g>
+<g><rect class='N' x='7309' y='18769' width='2952' height='351'/>
+<text class='P' x='7355' y='19111'>H GRIP LH OUTPUT</text>
+</g>
+<g><rect class='Q' x='7826' y='21473' width='2434' height='351'/>
+<text class='P' x='7872' y='21815'>H GRIP SWITCH</text>
+</g>
+<g><text class='M' x='56227' y='18120'>INSTRUMENTS</text>
+</g>
+<g><rect class='N' x='54296' y='18769' width='3210' height='351'/>
+<text class='R' x='54344' y='19111'>HEATED GRIP LEFT</text>
+</g>
+<g><rect class='S' x='54296' y='21473' width='3717' height='351'/>
+<text class='R' x='54344' y='21815'>HEATED GRIP SWITCH</text>
+</g>
+<g><rect class='S' x='54296' y='23501' width='3435' height='351'/>
+<text class='R' x='54344' y='23842'>HEATED GRIP RIGHT</text>
+</g>
+<g><text class='M' x='5029' y='22913'>RIGHT HANDLEBAR SWITCH HOUSING</text>
+</g>
+<g><rect class='N' x='8171' y='23501' width='2089' height='351'/>
+<text class='P' x='8217' y='23842'>HEATED GRIP</text>
+</g>
+<g><rect class='Q' x='15287' y='18671' width='873' height='526'/>
+<text class='L' x='15360' y='19183'>B/G</text>
+</g>
+<g><rect class='O' x='39365' y='18715' width='1013' height='526'/>
+<text class='L' x='39438' y='19227'>W/G</text>
+</g>
+<g><rect class='O' x='15116' y='21419' width='873' height='526'/>
+<text class='L' x='15189' y='21931'>B/G</text>
+</g>
+<g><rect class='O' x='39294' y='21419' width='873' height='526'/>
+<text class='L' x='39367' y='21931'>B/G</text>
+</g>
+<g><rect class='O' x='15102' y='23447' width='901' height='526'/>
+<text class='L' x='15175' y='23959'>G/U</text>
+</g>
+<g><rect class='O' x='39280' y='23447' width='901' height='526'/>
+<text class='L' x='39353' y='23959'>G/U</text>
+</g>
+</g></svg>
+
